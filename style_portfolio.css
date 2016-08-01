@@ -1,0 +1,53 @@
+body {
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 50px;
+	font-family: helvetica;
+	text-decoration: none;
+}
+
+.top {
+	text-align: right;
+	
+}
+
+.nav {
+	margin: 10 px auto 20px auto;
+	list-style-type: none;
+	text-decoration: none;
+	text-transform: uppercase;
+	line-height: 1.4em;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.active {
+	color: grey;
+}
+
+#intro {
+	float: right;
+	padding: 10px;
+	margin: auto;
+	align: center;
+}
+
+h1 {
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+p {
+	line-height: 1.2em;
+	font-size: .8em;
+}
+
+div {
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px 0 10px 0;
+}
+
+.education {
+	list-style-type: none;
+}
