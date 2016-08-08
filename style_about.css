@@ -18,14 +18,14 @@ div {
 	margin-right: 10px;
 }
 
-.nav {
-	margin: 10 px auto 20px auto;
+nav {
 	list-style-type: none;
 	text-decoration: none;
 	text-transform: uppercase;
 	line-height: 1.4em;
 	border: 1px solid black;
 	padding: 5px;
+	margin: 10px;
 }
 
 .active {
@@ -46,9 +46,13 @@ img {
 	margin: 20px auto auto 20px;
 }
 
-h1 {
+h1, h2, h3 {
 	font-size: 1.2em;
 	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 1.1em;
 }
 
 p {
